@@ -1,0 +1,17 @@
+{
+  "max_dimension": 960,
+  "video_max_dimension": 640,
+  "min_area_fraction": 0.0014,
+  "pink_hsv": [[145, 40, 100], [179, 210, 255]],
+  "warm_hsv": [[0, 135, 65], [37, 255, 255]],
+  "red_wrap_hsv": [[175, 135, 65], [179, 255, 255]],
+  "green_hsv": [[25, 100, 25], [89, 255, 255]],
+  "blue_hsv": [[90, 35, 35], [139, 255, 255]],
+  "tool_hsv": [[18, 150, 150], [38, 255, 255]],
+  "tool_min_area_fraction": 0.004,
+  "tool_min_width_fraction": 0.055,
+  "analysis_fps": 15, 
+  "confirmation_seconds": 0.40,
+  "removal_seconds": 0.60,
+  "match_distance_fraction": 0.17
+}
