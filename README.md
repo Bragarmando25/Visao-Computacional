@@ -75,12 +75,6 @@ Também é possível processar arquivos pelo terminal:
 .\.venv\Scripts\python main.py --entrada "caminho/para/imagem.jpg"
 .\.venv\Scripts\python main.py --entrada "caminho/para/video.mp4"
 O projeto permite configurar parâmetros de detecção por meio de config.json. Para os demais trabalhos, consulte os arquivos e as instruções de cada pasta.
-🎓 Contexto acadêmico
-Trabalhos desenvolvidos como parte da formação em Ciência da Computação na UENP, com foco na aplicação prática de conceitos de processamento digital de imagens e visão computacional.
-👨‍💻 Autor
-Armando Braga
-Ciência da Computação — UENP
-GitHub · LinkedIn
 <div align="center">
   <sub>Repositório acadêmico para estudo, experimentação e demonstração de projetos de Visão Computacional.</sub>
 </div>
